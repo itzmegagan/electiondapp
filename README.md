@@ -1,6 +1,6 @@
 *Election Dapp*
 
-Dependencies
+Dependencies:
 Install these prerequisites 
 
 NPM: https://nodejs.org
